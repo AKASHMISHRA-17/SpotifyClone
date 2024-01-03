@@ -1,2 +1,2 @@
 # SpotifyClone
-Music Player where user can listen different music songs
+Music Player where users can listen to different music songs developed using HTML, CSS, and javascript
